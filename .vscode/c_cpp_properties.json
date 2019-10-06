@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/hunter/thunder_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/hunter/thunder_ws/src/code_test_ros/include/**",
+                "/home/hunter/thunder_ws/src/demo_code_test2/include/**",
+                "/home/hunter/thunder_ws/src/duckbot/include/**",
+                "/opt/ros/kinetic/share/fetch_gazebo/include/**",
+                "/home/hunter/thunder_ws/src/learning_tf/include/**",
+                "/home/hunter/thunder_ws/src/lighting_package/include/**",
+                "/home/hunter/thunder_ws/src/mastering_ros_demo_pkg/include/**",
+                "/home/hunter/thunder_ws/src/my_robot2dnav/include/**",
+                "/home/hunter/thunder_ws/src/purple_package/include/**",
+                "/home/hunter/thunder_ws/src/robot_setup_tf/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
